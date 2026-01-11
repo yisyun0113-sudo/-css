@@ -1,0 +1,16 @@
+p{
+        color:red
+    }
+h2,.animal{
+        background-color: aqua;
+    }
+
+.traff{
+    color: brown;
+}
+#fly{
+    color: chartreuse;
+}
+p:hover{
+    background-color: gray;
+}
